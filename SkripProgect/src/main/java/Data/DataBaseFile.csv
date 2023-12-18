@@ -1,0 +1,11 @@
+438,Николай,Скрипачев,Андреевич,89279456788,21,Тойота АЕ86,В004КО,гор.Самара,true,Студент,src/main/java/Icon/toyota_ae86.jpg
+553,Иван,Иванов,Иванович,89345672857,32,Лада Веста,Е654РТ,село.Ивановка,true,Пенсионер,src/main/java/Icon/lada_vesta.jpg
+78,Jack,Daniels,,12334567799,23,Chevrolet Malibu,DFH65,New-York city,false,Not categor,src/main/java/Icon/chevrolet_malibu.jpg
+255,Георгий,Федотов,Павлович,89670566843,44,УАЗ 469,Н876АК,село.Кукуево,true,Пенсионер,src/main/java/Icon/uaz_469.jpg
+138,Nick,Tompson,,+16573459877,24,Ford Mustang,UTR876,Los-Angeles city,false,Not categor,src/main/java/Icon/ford_mustang.jpg
+405,Павел,Никоноров,Эдуардович,89245678234,35,Лада Гранта,Н876ОИ,гор.Москва,true,Инвалидность,src/main/java/Icon/lada_granta.jpg
+481,Андрей,Щербаков,Владимирович,89347453455,44,BMW M5,П653НК,гор.Москва,false,Not categor,src/main/java/Icon/bmw_m5.jpg
+194,Петр,Андреев,Леонидович,89679844477,45,Opel Astra,Н877ТИ,село.Андреевка ул.Зеленая д.1,false,Not categor,src/main/java/Icon/opel_astra.jpg
+35,Ken,Tompson,,+12458745677,23,Dodge Challenger,7H67J,New Orlean city 123432 street,false,Not categor,src/main/java/Icon/dodge_challenger.jpg
+253,Евгений,Шагин,Викторович,89456783455,56,Лада Веста Спорт,Х905ВС,гор.Сергиевс ул.Ленина д.87 кв.66,true,Пенсионер,src/main/java/Icon/vaz_lada_sport.jpg
+149,Захар,Котов,Максимович,895674523455,32,Volvo XC90,Е876АВ,гор.Нефтегорск ул.Зеленая д.68 кор.42 кв.3323,false,Not categor,src/main/java/Icon/volvo_XC90.jpg
